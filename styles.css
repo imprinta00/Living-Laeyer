@@ -374,6 +374,13 @@ img {
         max-width: 100%;
         overflow-x: hidden;
     }
+
+    body {
+         width:100%;
+        overflow-x:hidden;
+        overflow-y:hidden;
+    }
+
     .background-fill{
         margin-top:60px;
         height: 2706px;
