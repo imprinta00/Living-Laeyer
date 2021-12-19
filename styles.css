@@ -370,16 +370,9 @@ img {
 
 
 @media (max-width: 1016px) { 
-    html, body {
-    }
-
-    body {
-    }
-
     .content-container{
         width: 100%;
         height: 100%;
-
         overflow-x: hidden;
     }
 
@@ -388,33 +381,33 @@ img {
         height: 2706px;
     }
     .horizontal-rule-top {
-        width: 600px;
-        transform:translate(208px, 110px);
+        width: 360px;
+        transform:translate(328px, 48px);
     }
     .vertical-rule-left {
-        transform:translate(240px, 27px);
+        transform:translate(344px, 16px);
         height: 2644px;
     }
     .vertical-rule-right {
-        transform:translate(776px, 27px);
+        transform:translate(672px, 16px);
         height: 2644px;
     }
     .horizontal-rule-mid-1 {
-        width: 535px;
-        transform:translate(241px, 759px);
+        width: 327px;
+        transform:translate(345px, 468px);
     }
     .horizontal-rule-mid-2 {
-        width: 535px;
-        transform:translate(241px, 2186px);
+        width: 360px;
+        transform:translate(328px, 2186px);
     }
     .horizontal-rule-bottom {
-        width: 600px;        
-        transform:translate(208px, 2574px);
+        width: 475px;        
+        transform:translate(295px, 2574px);
     }
     
 
     h1 {
-	    font-size: 8.25rem;
+	    font-size: 5.4rem;
     }       
 
     h2 {
@@ -423,6 +416,14 @@ img {
 
     p {
         font-size: 1.05rem;
+    }
+
+    .page-title {
+        margin-top: 78px;
+    }
+
+    .gate {
+        margin-top: 24px;
     }
 
     .greeting-container {
@@ -446,10 +447,10 @@ img {
     }
 
     .gate-img {
-        height: 360px;
+        height: 218px;
     }
     .star-img {
-        height: 360px;
+        height: 218px;
     }
 
     .line-break {
