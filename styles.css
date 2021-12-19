@@ -381,20 +381,20 @@ img {
         height: 2706px;
     }
     .horizontal-rule-top {
-        width: 360px;
-        transform:translate(328px, 48px);
+        width: 367px;
+        transform:translate(324px, 32px);
     }
     .vertical-rule-left {
-        transform:translate(344px, 16px);
+        transform:translate(334px, 12px);
         height: 2644px;
     }
     .vertical-rule-right {
-        transform:translate(672px, 16px);
+        transform:translate(680px, 12px);
         height: 2644px;
     }
     .horizontal-rule-mid-1 {
         width: 327px;
-        transform:translate(345px, 468px);
+        transform:translate(345px, 466px);
     }
     .horizontal-rule-mid-2 {
         width: 360px;
@@ -407,7 +407,7 @@ img {
     
 
     h1 {
-	    font-size: 5.4rem;
+	    font-size: 5.75rem;
     }       
 
     h2 {
