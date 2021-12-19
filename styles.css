@@ -411,28 +411,40 @@ img {
     }       
 
     h2 {
-        font-size: 1.9rem;
+        font-size: 1.2rem;
+        margin-top: 0px;
+        margin-bottom: 0px;
     }
 
     p {
-        font-size: 1.05rem;
+        font-size: .75rem;
+        line-height: 20px;
     }
 
     .page-title {
-        margin-top: 68px;
+        margin-top: 66px;
     }
 
     .gate {
-        margin-top: 26px;
+        margin-top: 27px;
     }
 
     .greeting-container {
-        margin-top: 180px;
+        margin-top: 100px;
+        margin-bottom: 30px;
+    }
+    
+    .star-icon {
+        height: 18px;
+    }
+    
+    .moon-icon {
+        height: 18px;
     }
 
     .statement-container {
-        margin-top: 32px;
-        width: 450px;
+        margin-top: 18px;
+        width: 280px;
     }
 
     .contact-container {
