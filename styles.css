@@ -377,6 +377,7 @@ img {
 
     body {
         overflow: visible;
+        position: relative;
     }
 
     .background-fill{
