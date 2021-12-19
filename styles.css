@@ -17,7 +17,6 @@ html {
   }
 
 body {
-	font-size: 1.4rem;
 	text-rendering: optimizeLegibility;
 }
 
@@ -382,14 +381,14 @@ img {
     }
     .horizontal-rule-top {
         width: 366px;
-        transform:translate(325px, 38px);
+        transform:translate(324px, 42px);
     }
     .vertical-rule-left {
-        transform:translate(335px, 18px);
+        transform:translate(335px, 22px);
         height: 2644px;
     }
     .vertical-rule-right {
-        transform:translate(679px, 18px);
+        transform:translate(679px, 22px);
         height: 2644px;
     }
     .horizontal-rule-mid-1 {
@@ -397,12 +396,12 @@ img {
         transform:translate(336px, 455px);
     }
     .horizontal-rule-mid-2 {
-        width: 360px;
-        transform:translate(328px, 2186px);
+        width: 343px;
+        transform:translate(336px, 1382px);
     }
     .horizontal-rule-bottom {
-        width: 475px;        
-        transform:translate(295px, 2574px);
+        width: 366px;        
+        transform:translate(324px, 1608px);
     }
     
 
@@ -454,13 +453,51 @@ img {
     }
 
     .statement-container {
-        margin-top: 16px;
+        margin-top: 20px;
         width: 280px;
     }
 
+    .form-statement {
+        margin-bottom: 6px;
+    }
+
     .contact-container {
-        margin-top: 168px;
-        width: 480px;
+        margin-top: 68px;
+        width: 324px;
+    }
+
+    input {
+        height: 29px;
+        padding-left: 11px;
+    }
+
+    button {
+        font-size: .75rem;
+        margin-bottom: 32px;
+        margin-left: 60.2%;
+        padding-top: 0px;
+        width: 40%;
+        height: 29px;
+    }
+    
+    ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+        font-size: .75rem;   
+    }
+      
+    :-ms-input-placeholder { /* Internet Explorer 10-11 */
+        font-size: .75rem;
+    }
+      
+    ::-ms-input-placeholder { /* Microsoft Edge */
+        font-size: .75rem;
+    } 
+
+    .name-input {
+        padding-top: 1px;
+      }
+      
+    .email-input {
+        padding-top: 1px;
     }
 
     .version-container {
