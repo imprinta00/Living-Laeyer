@@ -371,7 +371,6 @@ img {
 
 @media (max-width: 1016px) {
     html, body {
-        max-width: 100%;
         overflow-x: hidden;
     }
 
