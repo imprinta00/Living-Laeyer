@@ -376,19 +376,28 @@ img {
         overflow-x: hidden;
     }
 
+    form {
+        margin-bottom: 14px;
+    }
+
     .background-fill{
         margin-top:54px;
     }
+    .page-rules{
+        height: 1400px;
+
+    }
+
     .horizontal-rule-top {
         width: 366px;
         transform:translate(324px, 46px);
     }
     .vertical-rule-left {
-        transform:translate(335px, 26px);
+        transform:translate(335px, 24px);
         height: 1614px;
     }
     .vertical-rule-right {
-        transform:translate(679px, 26px);
+        transform:translate(679px, 24px);
         height: 1614px;
     }
     .horizontal-rule-mid-1 {
@@ -401,7 +410,7 @@ img {
     }
     .horizontal-rule-bottom {
         width: 366px;        
-        transform:translate(324px, 1618px);
+        transform:translate(324px, 1614px);
     }
 
     h1 {
@@ -510,8 +519,8 @@ img {
         width: 25%;
         margin-right:75%;
         text-align: left;
-        margin-top: 3px;
-        margin-bottom: 28px;
+        margin-top: 0px;
+        margin-bottom: 31px;
     }
 
     .gate-img {
@@ -530,7 +539,7 @@ img {
     }
     
     .archive-table {
-        margin-top: 50px;
+        margin-top: 84px;
         width: 376px;
     }
 }
