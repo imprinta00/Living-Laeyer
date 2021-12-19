@@ -386,11 +386,11 @@ img {
     }
     .vertical-rule-left {
         transform:translate(335px, 26px);
-        height: 2644px;
+        height: 1614px;
     }
     .vertical-rule-right {
         transform:translate(679px, 26px);
-        height: 2644px;
+        height: 1614px;
     }
     .horizontal-rule-mid-1 {
         width: 343px;
@@ -402,9 +402,8 @@ img {
     }
     .horizontal-rule-bottom {
         width: 366px;        
-        transform:translate(324px, 1614px);
+        transform:translate(324px, 1618px);
     }
-    
 
     h1 {
 	    font-size: 5.75rem;
@@ -495,7 +494,7 @@ img {
     } 
 
     .name-input {
-        padding-top: 1px;
+        padding-top: 2px;
       }
       
     .email-input {
@@ -503,9 +502,15 @@ img {
     }
 
     .version-container {
+        width: 324px;
+        margin-right: 0%;
+        margin-top: 0px;
+    }
+
+    #version {
         width: 25%;
-        margin-right: 50%;
-        margin-top: 26px;
+        margin-right:75%;
+        text-align: left;
     }
 
     .gate-img {
@@ -520,11 +525,11 @@ img {
     }
 
     .archive {
-        margin-top: 2700px;
+        margin-top: 1700px;
     }
     
     .archive-table {
         margin-top: 50px;
-        width: 584px;
+        width: 376px;
     }
 }
