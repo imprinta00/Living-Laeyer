@@ -82,10 +82,6 @@ input {
     box-shadow: none;  
 }
 
-input[type="search"] {
-    -webkit-appearance: none;
-}
-
 input:focus, textarea:focus, select:focus{
     outline: none;
 }
