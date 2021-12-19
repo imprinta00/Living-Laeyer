@@ -382,14 +382,14 @@ img {
     }
     .horizontal-rule-top {
         width: 367px;
-        transform:translate(324px, 32px);
+        transform:translate(324px, 38px);
     }
     .vertical-rule-left {
-        transform:translate(334px, 12px);
+        transform:translate(335px, 18px);
         height: 2644px;
     }
     .vertical-rule-right {
-        transform:translate(680px, 12px);
+        transform:translate(679px, 18px);
         height: 2644px;
     }
     .horizontal-rule-mid-1 {
