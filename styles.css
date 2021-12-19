@@ -74,11 +74,16 @@ input {
     margin-bottom: 1px;
     padding-left: 16px;
     outline: none;
+    border-radius: 0;
     border:none;
     background-color:#cccbc2;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;  
+}
+
+input[type="search"] {
+    -webkit-appearance: none;
 }
 
 input:focus, textarea:focus, select:focus{
