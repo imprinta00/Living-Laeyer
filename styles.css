@@ -418,7 +418,8 @@ img {
 
     p {
         font-size: .75rem;
-        line-height: 20px;
+        line-height: 21px;
+        margin-bottom: 24px;
     }
 
     .page-title {
@@ -437,13 +438,23 @@ img {
     .star-icon {
         height: 18px;
     }
-    
+
+    #farewell {
+        margin-top: 30px;
+        margin-bottom: 17px;
+    }
+
+    #signature {
+        letter-spacing: 16px;
+    }
+
     .moon-icon {
         height: 18px;
+        transform:translate(-14.75px, -44px);
     }
 
     .statement-container {
-        margin-top: 18px;
+        margin-top: 16px;
         width: 280px;
     }
 
