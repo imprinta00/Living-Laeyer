@@ -378,7 +378,6 @@ img {
 
     .background-fill{
         margin-top:54px;
-        height: 2706px;
     }
     .horizontal-rule-top {
         width: 366px;
@@ -502,7 +501,7 @@ img {
     }
 
     .version-container {
-        width: 324px;
+        width: 332px;
         margin-right: 0%;
         margin-top: 0px;
     }
@@ -511,6 +510,8 @@ img {
         width: 25%;
         margin-right:75%;
         text-align: left;
+        margin-top: 3px;
+        margin-bottom: 28px;
     }
 
     .gate-img {
@@ -525,7 +526,7 @@ img {
     }
 
     .archive {
-        margin-top: 1700px;
+        margin-top: 1640px;
     }
     
     .archive-table {
