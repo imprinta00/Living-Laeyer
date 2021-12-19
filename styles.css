@@ -369,18 +369,18 @@ img {
 }
 
 
-@media (max-width: 1016px) {
-    html {
-        overflow-x: hidden;
-    }
-    
+@media (max-width: 1016px) { 
     html, body {
-        
     }
 
     body {
-        overflow: visible;
-        position: relative;
+    }
+
+    .content-container{
+        width: 100%;
+        height: 100%;
+
+        overflow-x: hidden;
     }
 
     .background-fill{
