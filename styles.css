@@ -376,9 +376,7 @@ img {
     }
 
     body {
-         width:100%;
-        overflow-x:hidden;
-        overflow-y:hidden;
+        overflow: visible;
     }
 
     .background-fill{
