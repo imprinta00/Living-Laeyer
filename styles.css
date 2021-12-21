@@ -440,7 +440,7 @@ img {
 
     .greeting-container {
         margin-top: 100px;
-        margin-bottom: 29px;
+        margin-bottom: 30px;
     }
     
     .star-icon {
@@ -484,7 +484,7 @@ img {
         font-size: .75rem;
         margin-bottom: 32px;
         margin-left: 60.2%;
-        padding-top: 0px;
+        padding-bottom: 0px;
         width: 40%;
         height: 29px;
         color: #3d3c38;
@@ -503,11 +503,11 @@ img {
     } 
 
     .name-input {
-        padding-top: 2px;
+        padding-top: 4px;
       }
       
     .email-input {
-        padding-top: 1px;
+        padding-top: 3px;
     }
 
     .version-container {
